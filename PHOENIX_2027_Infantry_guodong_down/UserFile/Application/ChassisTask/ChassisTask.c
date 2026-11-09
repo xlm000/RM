@@ -163,14 +163,20 @@ void ChassisTask(void const * argument)
             break;
         case CHASSIS_ENABLE_NORMAL: //独立运动
             Chassis_Change_Mode(chassis_instance, CHASSIS_NORMAL);
+            chassis_instance->Chassis_speed.Vx += dr16_instance->dr16_handle.ch2 * 0.001f/660.0f;
+            chassis_instance->Chassis_speed.Vy += dr16_instance->dr16_handle.ch3 * 0.001f/660.0f;
             Chassis_Control(chassis_instance);
             break;
         case CHASSIS_ENABLE_FOLLOW_GIMBAL: //跟随云台
             Chassis_Change_Mode(chassis_instance, CHASSIS_FOLLOW_GIMBAL);
+            chassis_instance->Chassis_speed.Vx += dr16_instance->dr16_handle.ch2 * 0.001f/660.0f;
+            chassis_instance->Chassis_speed.Vy += dr16_instance->dr16_handle.ch3 * 0.001f/660.0f;
             Chassis_Control(chassis_instance);
             break;
         case CHASSIS_ENABLE_GYROSCOPE: //小陀螺
             Chassis_Change_Mode(chassis_instance, CHASSIS_GYROSCOPE);
+            chassis_instance->Chassis_speed.Vx += dr16_instance->dr16_handle.ch2 * 0.001f/660.0f;
+            chassis_instance->Chassis_speed.Vy += dr16_instance->dr16_handle.ch3 * 0.001f/660.0f;
             Chassis_Control(chassis_instance);
             break;
         }

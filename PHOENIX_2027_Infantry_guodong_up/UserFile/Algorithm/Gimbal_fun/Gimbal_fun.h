@@ -11,8 +11,8 @@
 #define SENSITIVITY 0.001f/660.0f       //遥控器灵敏度定义
 #define BIG_PITCH_NORMAL_POSITION 0.0f  //大pitch垂直位置
 #define BIG_PITCH_FOLD_POSITION 1.0f    //大pitch折叠位置
-#define YAW_DEADZONE_UP 
-#define YAW_DEADZONE_DOWN
+#define YAW_DEADZONE_UP 0.0f            //yaw灯条死区上限
+#define YAW_DEADZONE_DOWN 0.0f          //yaw灯条死区下限
 
 //云台状态枚举
 typedef enum
