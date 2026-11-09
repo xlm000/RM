@@ -1,0 +1,7 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:23:14:Motor_Dji_Protect	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:66:13:Motor_Dji_Decode	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:116:21:Motor_Dji_Register	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:157:6:Motor_Dji_Control	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:172:6:Motor_Dji_SetCurrent	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:195:6:Motor_Dji_Transmit	20	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dji/dev_motor_dji.c:207:6:Motor_Dji_Change_Mode	0	static

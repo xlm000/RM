@@ -1,0 +1,7 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:63:13:buzzer_delay	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:19:19:buzzer_register	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:54:6:buzzer_off	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:35:6:buzzer_init	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:68:6:buzzer_play_frequency	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:93:6:buzzer_play_note	56	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Buzzer/bsp_buzzer.c:110:6:buzzer_play_sheet	24	static

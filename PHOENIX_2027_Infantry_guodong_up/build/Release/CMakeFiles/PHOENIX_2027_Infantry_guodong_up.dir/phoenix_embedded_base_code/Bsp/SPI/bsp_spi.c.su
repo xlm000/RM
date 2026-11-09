@@ -1,0 +1,7 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:18:16:Spi_Register	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:67:6:Spi_Transmit	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:95:6:Spi_Recv	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:120:6:Spi_TransRecv	32	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:163:6:Spi_SetMode	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:175:6:HAL_SPI_RxCpltCallback	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/SPI/bsp_spi.c:193:6:HAL_SPI_TxRxCpltCallback	0	static

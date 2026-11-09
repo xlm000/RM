@@ -1,0 +1,7 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:15:14:IICRegister	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:34:6:IICSetMode	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:42:6:IICTransmit	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:83:6:IICReceive	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:128:6:IICAccessMem	32	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:153:6:HAL_I2C_MasterRxCpltCallback	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/I2c/bsp_iic.c:171:6:HAL_I2C_MemRxCpltCallback	0	static

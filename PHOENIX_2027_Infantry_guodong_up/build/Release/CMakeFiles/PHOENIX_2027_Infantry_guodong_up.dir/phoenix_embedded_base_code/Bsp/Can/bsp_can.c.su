@@ -1,0 +1,7 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:293:13:USER_CAN_RxFifo0MsgPendingCallback	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:49:6:Can_Init	112	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:207:16:Can_Register	40	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:241:6:Can_Transmit_External_Tx_Buff	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:266:6:Can_Transmit	32	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:311:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Can/bsp_can.c:331:6:HAL_CAN_RxFifo1MsgPendingCallback	16	static

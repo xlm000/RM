@@ -1,0 +1,7 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:93:13:Smc_ds_calc	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:220:7:Smc_Calculate	48	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:321:6:Smc_Reset	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:170:16:Smc_Register	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:333:6:Smc_Disable	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:343:6:Smc_Enable	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/SMC/alg_smc.c:352:6:Smc_IsEnabled	0	static

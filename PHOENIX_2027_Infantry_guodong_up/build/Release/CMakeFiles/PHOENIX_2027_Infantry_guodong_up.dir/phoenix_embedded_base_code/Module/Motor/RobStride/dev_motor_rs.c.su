@@ -1,0 +1,8 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:30:6:Motor_Rs_Decode	40	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:56:20:Motor_RS_Register	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:77:6:Motor_RS_Enable	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:89:6:Motor_RS_Disable	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:101:6:Motor_RS_Mit_Control	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:135:6:Motor_RS_Control	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:156:6:Motor_RS_Control_Raw	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/RobStride/dev_motor_rs.c:177:6:Motor_RS_Transmit	0	static

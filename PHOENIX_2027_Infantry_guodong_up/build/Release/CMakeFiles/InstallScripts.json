@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/build/Release/cmake_install.cmake",
+		"E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/build/Release/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

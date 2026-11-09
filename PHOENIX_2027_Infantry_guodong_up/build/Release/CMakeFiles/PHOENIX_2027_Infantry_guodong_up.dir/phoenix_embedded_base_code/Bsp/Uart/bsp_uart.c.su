@@ -1,0 +1,8 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:79:17:Uart_Register	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:127:6:Uart_Transmit	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:159:6:Uart_Transmit_Len	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:185:6:Uart_Blocking_Receive	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:200:6:HAL_UART_RxCpltCallback	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:204:6:HAL_UART_TxCpltCallback	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:208:6:HAL_UARTEx_RxEventCallback	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Bsp/Uart/bsp_uart.c:212:6:HAL_UART_ErrorCallback	16	static

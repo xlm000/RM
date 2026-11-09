@@ -1,0 +1,8 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:22:13:Motor_Dm_Decode	12	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:61:20:Motor_DM_Register	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:102:6:Motor_Dm_Cmd	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:110:6:Motor_Dm_Mit_Control	20	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:131:6:Motor_Dm_Control	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:151:6:Motor_Dm_Pos_Vel_Control	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:170:6:Motor_Dm_FullParam_MIT_Control	20	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Dm/dev_motor_dm.c:198:6:Motor_Dm_Transmit	0	static

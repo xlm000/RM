@@ -1,0 +1,5 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Daemon/dev_daemon.c:15:20:Daemon_Register	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Daemon/dev_daemon.c:35:6:Daemon_Start	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Daemon/dev_daemon.c:73:6:Daemon_Reload	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Daemon/dev_daemon.c:52:6:Daemon_Feed	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Daemon/dev_daemon.c:88:6:Daemon_Step	16	static

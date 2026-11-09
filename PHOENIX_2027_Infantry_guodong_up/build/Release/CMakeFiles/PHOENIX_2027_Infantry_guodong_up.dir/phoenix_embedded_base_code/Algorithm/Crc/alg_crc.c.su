@@ -1,0 +1,6 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/Crc/alg_crc.c:115:16:Crc_ccitt_byte	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/Crc/alg_crc.c:120:10:Crc_Ccitt_Calculate	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/Crc/alg_crc.c:130:9:CRC08_Calculate	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/Crc/alg_crc.c:137:10:CRC08_Verify	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/Crc/alg_crc.c:145:10:CRC16_Calculate	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Algorithm/Crc/alg_crc.c:153:10:CRC16_Verify	16	static

@@ -1,0 +1,5 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Unitree/dev_motor_unitree.c:10:13:Motor_Unitree_Decode	56	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Unitree/dev_motor_unitree.c:54:25:Motor_Unitree_Register	48	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Unitree/dev_motor_unitree.c:94:6:Motor_Unitree_Control	56	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Unitree/dev_motor_unitree.c:171:6:Motor_Unitree_Stop	32	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/Motor/Unitree/dev_motor_unitree.c:193:6:Motor_Unitree_Control_Raw	32	static

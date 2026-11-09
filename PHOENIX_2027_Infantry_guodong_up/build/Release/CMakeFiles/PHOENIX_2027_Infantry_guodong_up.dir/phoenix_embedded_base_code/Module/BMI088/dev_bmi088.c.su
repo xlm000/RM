@@ -1,0 +1,14 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:439:6:Bmi088_Callback	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:84:13:BMI088_AccelWrite	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:30:7:BMI088_AccelRead	32	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:58:7:BMI088_GyroRead	32	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:114:6:BMI088_CheckWhoAmI	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:138:6:BMI088_ReadAccelData	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:163:6:BMI088_ReadGyroData	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:342:6:BMI088_Read	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:377:9:BMI088_GetCalibrationStatus	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:389:6:BMI088_CheckAccelError	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:458:6:Bmi088_Init	24	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:687:6:BMI088_ReadTemperature	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:193:6:BMI088_CalibrateOffset	112	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/BMI088/dev_bmi088.c:604:19:Bmi088_Register	72	static

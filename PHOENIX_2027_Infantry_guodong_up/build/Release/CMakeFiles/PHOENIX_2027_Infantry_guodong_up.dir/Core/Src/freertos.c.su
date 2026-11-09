@@ -1,0 +1,4 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/Core/Src/freertos.c:128:13:GimbalTask	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/Core/Src/freertos.c:148:13:ShootTask	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/Core/Src/freertos.c:71:6:vApplicationGetIdleTaskMemory	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/Core/Src/freertos.c:85:6:MX_FREERTOS_Init	72	static

@@ -1,0 +1,4 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/SEGGER/Jlink_RTT/SEGGER_RTT_printf.c:111:13:_StoreChar	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/SEGGER/Jlink_RTT/SEGGER_RTT_printf.c:136:13:_PrintUnsigned	40	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/SEGGER/Jlink_RTT/SEGGER_RTT_printf.c:321:5:SEGGER_RTT_vprintf	144	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Module/SEGGER/Jlink_RTT/SEGGER_RTT_printf.c:495:5:SEGGER_RTT_printf	12	static

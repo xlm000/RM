@@ -1,0 +1,12 @@
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:111:6:BodyFrameToEarthFrame	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:132:6:EarthFrameToBodyFrame	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:154:6:compensate_centrifugal_accel	48	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:561:6:quaternion_multiply	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:579:6:quaternion_to_euler	48	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:603:7:calculate_norm	0	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:617:9:calculate_quaternion_from_gravity	104	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:447:9:Quater_Init.part.0	64	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:447:9:Quater_Init	8	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:210:6:isttask	232	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:709:6:quaternion_normalize	16	static
+E:/Sand_Box/deepseek/tmp/PHOENIX_2027_Infantry_guodong_up/phoenix_embedded_base_code/Application/app_ins_task.c:735:9:caculate_angle	72	static
