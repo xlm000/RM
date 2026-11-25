@@ -194,6 +194,7 @@ void shootTask()
 
     for (;;)
     {
+        //观察窗
         wheel_1_velocity = wheel_1_instance->message.out_velocity;
         wheel_2_velocity = wheel_2_instance->message.out_velocity;
         wheel_3_velocity = wheel_3_instance->message.out_velocity;
@@ -210,35 +211,35 @@ void shootTask()
         {
             if (fabsf(wheel_1_velocity) >= 1200.0f)
             {
-                //Motor_Dji_Control(wheel_1_instance, 0.0f);
+                Motor_Dji_Control(wheel_1_instance, 0.0f);
             }
             else if (fabsf(wheel_1_velocity) < 1200.0f)
             {
-                //Motor_Dji_SetCurrent(wheel_1_instance, 0.0001f);
+                Motor_Dji_SetCurrent(wheel_1_instance, 0.001f);
             }
             if (fabsf(wheel_2_velocity) >= 1200.0f)
             {
-                //Motor_Dji_Control(wheel_2_instance, 0.0f);
+                Motor_Dji_Control(wheel_2_instance, 0.0f);
             }
             else if (fabsf(wheel_2_velocity) < 1200.0f)
             {
-                //Motor_Dji_SetCurrent(wheel_2_instance, 0.0001f);
+                Motor_Dji_SetCurrent(wheel_2_instance, 0.001f);
             }
             if (fabsf(wheel_3_velocity) >= 1200.0f)
             {
-                //Motor_Dji_Control(wheel_3_instance, 0.0001f);
+                Motor_Dji_Control(wheel_3_instance, 0.0f);
             }
             else if (fabsf(wheel_3_velocity) < 1200.0f)
             {
-                //Motor_Dji_SetCurrent(wheel_3_instance, 0.0001f);
+                Motor_Dji_SetCurrent(wheel_3_instance, 0.001f);
             }
         }
 
         if (Et08a->sb == 3) //单发
         {
-            //Motor_Dji_Control(wheel_1_instance, -wheel_velocity);
-            //Motor_Dji_Control(wheel_2_instance, -wheel_velocity);
-            //Motor_Dji_Control(wheel_3_instance, -wheel_velocity);
+            Motor_Dji_Control(wheel_1_instance, -wheel_velocity);
+            Motor_Dji_Control(wheel_2_instance, -wheel_velocity);
+            Motor_Dji_Control(wheel_3_instance, -wheel_velocity);
 
             if (Et08a->sa == 1 && motor_check == 0)
             {
@@ -262,9 +263,9 @@ void shootTask()
             Motor_Dji_Control(dial_instance, dial_target_angle);
         }else if ((Et08a->sb == 2)) //连发
         {
-            //Motor_Dji_Control(wheel_1_instance, -wheel_velocity);
-            //Motor_Dji_Control(wheel_2_instance, -wheel_velocity);
-            //Motor_Dji_Control(wheel_3_instance, -wheel_velocity);
+            Motor_Dji_Control(wheel_1_instance, -wheel_velocity);
+            Motor_Dji_Control(wheel_2_instance, -wheel_velocity);
+            Motor_Dji_Control(wheel_3_instance, -wheel_velocity);
 
             if (Et08a->sa == 1)
             {
@@ -305,7 +306,7 @@ void shootTask()
             Motor_Dm_Mit_Control(pitch_instance, 0, 0, pitch_instance->output - galaxy_offset);
         }
 
-        //状态判断
+        //拨弹盘状态判断
         if (Et08a->sb == 2 || Et08a->sb == 3)
         {
             Pid_Enable(wheel_1_instance->velocity_pid);
@@ -318,10 +319,7 @@ void shootTask()
             }
         }else if (Et08a->sb == 1 || Et08a == NULL)
         {
-            Motor_Dji_Control(wheel_1_instance, 0);
-            Motor_Dji_Control(wheel_2_instance, 0);
-            Motor_Dji_Control(wheel_3_instance, 0);
-            Motor_Dji_SetCurrent(dial_instance, 0);
+            Motor_Dji_SetCurrent(dial_instance, 0.001f);
             Motor_Dm_Cmd(pitch_instance, DM_CMD_MOTOR_DISABLE);
 
             dial_target_angle = dial_instance->message.out_position;
