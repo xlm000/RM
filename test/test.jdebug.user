@@ -1,0 +1,40 @@
+
+
+GraphedExpression="wheel_1_velocity", Color=#e56a6f, Show=0
+GraphedExpression="wheel_2_velocity", Color=#35792b
+GraphedExpression="wheel_3_velocity", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#769dda, Show=0
+GraphedExpression="((wheel_2_instance)->can_instance)->cnt", DisplayFormat=DISPLAY_FORMAT_DEC, Color=#b14f0d
+OpenDocument="port.c", FilePath="E:/RM/_Cmake/test/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c", Line=419
+OpenDocument="main.c", FilePath="E:/RM/_Cmake/test/Core/Src/main.c", Line=55
+OpenDocument="dev_motor_dji.c", FilePath="E:/RM/_Cmake/test/UserFiles/Module/Motor_Dji/dev_motor_dji.c", Line=38
+OpenDocument="tasks.c", FilePath="E:/RM/_Cmake/test/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=3624
+OpenDocument="stm32f4xx_hal_can.c", FilePath="E:/RM/_Cmake/test/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c", Line=1406
+OpenDocument="alg_pid.c", FilePath="E:/RM/_Cmake/test/UserFiles/Algorithm/Pid/alg_pid.c", Line=98
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=776, h=451, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=1001, h=258, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x20000EC4
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=1, w=776, h=711, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=0, y=0, w=1558, h=258, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=1
+OpenWindow="Timeline", DockArea=RIGHT, x=0, y=0, w=1347, h=1163, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="10 s / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=1, DataGraphLegendPosition="879;39", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1120;-69", CodeGraphLegendShown=0, CodeGraphLegendPosition="1136;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[271;100;100;100;902]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" wheel_1_velocity";" wheel_2_velocity";" wheel_3_velocity";" ((wheel_2_instance)->can_instance)->cnt"], ColWidths=[100;100;100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[142;154;100;100;154;154;110;164;480]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[261;229;142;118]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;340]
+WatchedExpression="Et08a", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_1_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_2_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_3_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="dial_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="pitch_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="fraction_offset", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="pitch_target_angle", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="ref_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_1_velocity", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_2_velocity", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_3_velocity", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="Lowpass_wheel_instance", RefreshRate=5, DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
+WatchedExpression="wheel_velocity", DisplayFormat=DISPLAY_FORMAT_HEX, Window=Watched Data 1
